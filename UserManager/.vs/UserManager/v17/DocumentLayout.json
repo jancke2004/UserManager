@@ -1,58 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VSC_project\\UserManager\\",
+  "WorkspaceRootPath": "C:\\DevWerk\\UserManager\\UserManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\vsc_project\\usermanager\\usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|c:\\vsc_project\\usermanager\\usermanager.repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|c:\\vsc_project\\usermanager\\usermanager.repository\\usermanager.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\usermanager.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF86829F-7E06-4760-8A17-523F593C5A0A}|UserManager.Logic\\UserManager.Logic.csproj|c:\\vsc_project\\usermanager\\usermanager.logic\\usermanager.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF86829F-7E06-4760-8A17-523F593C5A0A}|UserManager.Logic\\UserManager.Logic.csproj|solutionrelative:usermanager.logic\\usermanager.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\vsc_project\\usermanager\\usermanager\\usermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\usermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|c:\\vsc_project\\usermanager\\usermanager.repository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|c:\\vsc_project\\usermanager\\usermanager.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|c:\\vsc_project\\usermanager\\usermanager.repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\vsc_project\\usermanager\\usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|C:\\VSC_project\\UserManager\\usermanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF86829F-7E06-4760-8A17-523F593C5A0A}|UserManager.Logic\\UserManager.Logic.csproj|C:\\VSC_project\\UserManager\\usermanager.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF86829F-7E06-4760-8A17-523F593C5A0A}|UserManager.Logic\\UserManager.Logic.csproj|solutionrelative:usermanager.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6A08BF-0FB3-4A1A-93F9-80537138019F}|Solution Items{5D6A08BF-0FB3-4A1A-93F9-80537138019F}|C:\\VSC_project\\UserManager\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5D6A08BF-0FB3-4A1A-93F9-80537138019F}|Solution Items{5D6A08BF-0FB3-4A1A-93F9-80537138019F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|C:\\VSC_project\\UserManager\\usermanager.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8667D490-00D5-4851-8217-425211EF619B}|UserManager.Repository\\UserManager.Repository.csproj|solutionrelative:usermanager.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,8 +13,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 2264,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,170 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "UserManager.Repository\\MyDbContext.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\MyDbContext.cs",
-              "RelativeToolTip": "UserManager.Repository\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:40:50.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager\\Program.cs",
-              "RelativeDocumentMoniker": "UserManager\\Program.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager\\Program.cs",
-              "RelativeToolTip": "UserManager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:21:46.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserManager.Repository",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\UserManager.Repository.csproj",
-              "RelativeDocumentMoniker": "UserManager.Repository\\UserManager.Repository.csproj",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\UserManager.Repository.csproj",
-              "RelativeToolTip": "UserManager.Repository\\UserManager.Repository.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-03T08:24:24.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManager.Logic",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Logic\\UserManager.Logic.csproj",
-              "RelativeDocumentMoniker": "UserManager.Logic\\UserManager.Logic.csproj",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Logic\\UserManager.Logic.csproj",
-              "RelativeToolTip": "UserManager.Logic\\UserManager.Logic.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-03T09:06:28.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManager.csproj",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager\\UserManager.csproj",
-              "RelativeDocumentMoniker": "UserManager\\UserManager.csproj",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager\\UserManager.csproj",
-              "RelativeToolTip": "UserManager\\UserManager.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T12:23:26.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\Customer.cs",
-              "RelativeDocumentMoniker": "UserManager.Repository\\Customer.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\Customer.cs",
-              "RelativeToolTip": "UserManager.Repository\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:36:26.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "UserManager.Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "UserManager.Repository\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:40:03.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "UserManager.Repository\\ICustomerRepository.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\ICustomerRepository.cs",
-              "RelativeToolTip": "UserManager.Repository\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:38:08.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager\\appsettings.json",
-              "RelativeDocumentMoniker": "UserManager\\appsettings.json",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager\\appsettings.json",
-              "RelativeToolTip": "UserManager\\appsettings.json",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T08:13:14.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\VSC_project\\UserManager\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-03T06:43:49.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "UserManager\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "UserManager\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:30:12.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Repository\\Class1.cs",
-              "RelativeDocumentMoniker": "UserManager.Repository\\Class1.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Repository\\Class1.cs",
-              "RelativeToolTip": "UserManager.Repository\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:33:06.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\VSC_project\\UserManager\\UserManager.Logic\\Class1.cs",
-              "RelativeDocumentMoniker": "UserManager.Logic\\Class1.cs",
-              "ToolTip": "C:\\VSC_project\\UserManager\\UserManager.Logic\\Class1.cs",
-              "RelativeToolTip": "UserManager.Logic\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:29:43.979Z",
+              "WhenOpened": "2024-09-03T10:50:07.017Z",
               "EditorCaption": ""
             }
           ]
