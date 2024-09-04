@@ -10,7 +10,7 @@ namespace UserManager.Repository.Interfaces
     public interface ICustomerRepository
     {
         Task<IEnumerable<Customer>> GetCustomersAsync(int skip, int take);
-        // Additional methods like Add, Update, Delete, etc.
+        // Add methods vir add, update delte
     }
 }
 
