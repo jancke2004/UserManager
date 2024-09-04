@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\DevWerk\\UserManager\\UserManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\model\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\model\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +47,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "UserManager\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "UserManager\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManager\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManager\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T10:50:07.017Z",
+              "WhenOpened": "2024-09-04T07:04:58.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManager\\appsettings.json",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\appsettings.json",
+              "RelativeToolTip": "UserManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T06:19:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "UserManager\\Model\\Users.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\Users.cs",
+              "RelativeToolTip": "UserManager\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:12:26.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Program.cs",
+              "RelativeDocumentMoniker": "UserManager\\Program.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Program.cs",
+              "RelativeToolTip": "UserManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:30:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UserManager\\WeatherForecast.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\WeatherForecast.cs",
+              "RelativeToolTip": "UserManager\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:45:29.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\UserContext.cs",
+              "RelativeDocumentMoniker": "UserManager\\Model\\UserContext.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\UserContext.cs",
+              "RelativeToolTip": "UserManager\\Model\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:14:22.098Z",
               "EditorCaption": ""
             }
           ]
