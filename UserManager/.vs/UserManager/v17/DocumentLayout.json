@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\DevWerk\\UserManager\\UserManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\model\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\migrations\\20240904065738_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|solutionrelative:usermanager\\migrations\\20240904065738_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BA7D68-8640-4159-97D2-519E0DAA26F9}|UserManager\\UserManager.csproj|c:\\devwerk\\usermanager\\usermanager\\usermanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "20240904065738_INIT.cs",
+              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Migrations\\20240904065738_INIT.cs",
+              "RelativeDocumentMoniker": "UserManager\\Migrations\\20240904065738_INIT.cs",
+              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Migrations\\20240904065738_INIT.cs",
+              "RelativeToolTip": "UserManager\\Migrations\\20240904065738_INIT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:39:17.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UserManager\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UserManager\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:04:58.045Z",
+              "WhenOpened": "2024-09-05T06:39:04.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\appsettings.json",
-              "RelativeDocumentMoniker": "UserManager\\appsettings.json",
-              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\appsettings.json",
-              "RelativeToolTip": "UserManager\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T06:19:21.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\Users.cs",
-              "RelativeDocumentMoniker": "UserManager\\Model\\Users.cs",
-              "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\Users.cs",
-              "RelativeToolTip": "UserManager\\Model\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T06:12:26.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Program.cs",
               "RelativeDocumentMoniker": "UserManager\\Program.cs",
               "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Program.cs",
               "RelativeToolTip": "UserManager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T06:30:57.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "UserManager\\WeatherForecast.cs",
@@ -111,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserContext.cs",
               "DocumentMoniker": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\UserContext.cs",
               "RelativeDocumentMoniker": "UserManager\\Model\\UserContext.cs",
               "ToolTip": "C:\\DevWerk\\UserManager\\UserManager\\UserManager\\Model\\UserContext.cs",
               "RelativeToolTip": "UserManager\\Model\\UserContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T06:14:22.098Z",
               "EditorCaption": ""
